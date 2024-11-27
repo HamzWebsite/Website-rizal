@@ -1,0 +1,25 @@
+/* Styling umum */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Styling untuk Section Info */
+.info-section img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Styling untuk Section Card */
+.card img {
+    max-height: 200px;
+    object-fit: cover;
+}
+
+/* Styling untuk Table */
+.table {
+    margin-top: 20px;
+}
+.table th, .table td {
+    text-align: center;
+}
